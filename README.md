@@ -25,4 +25,3 @@ Projeyi yerel olarak çalıştırmak için:
 
 ## Takım Üyeleri
 - Feti Bahadır Okumuş
-- Saltuk Şanlı?
