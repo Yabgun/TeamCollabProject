@@ -24,5 +24,5 @@ Projeyi yerel olarak çalıştırmak için:
 - `script.js` - Uygulamanın JavaScript kodu
 
 ## Takım Üyeleri
-- [İsim 1]
-- [İsim 2]
+- Feti Bahadır Okumuş
+- Saltuk Şanlı?
